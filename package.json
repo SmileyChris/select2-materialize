@@ -1,0 +1,19 @@
+{
+  "name": "select2-materialize",
+  "version": "0.1.0",
+  "description": "Materialize styles for select2 jquery plugin",
+  "main": "select2-materialize.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarve77/select2-materialize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarve77/select2-materialize/issues"
+  },
+  "homepage": "https://github.com/cesarve77/select2-materialize#readme"
+}
